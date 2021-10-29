@@ -1,0 +1,1 @@
+En la carpeta uploads van las imagenes subidas por los usuarios
